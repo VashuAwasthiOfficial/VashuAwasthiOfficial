@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Vashu Awasthi 👋
 
-<!--
-**VashuAwasthiOfficial/VashuAwasthiOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Founder & Software Architect
+I'm building scalable digital platforms using a modern tech stack. 
 
-Here are some ideas to get you started:
+- 💻 **Backend:** Java Spring Boot / SQL
+- 📱 **Frontend:** Flutter / Dart
+- 🌐 **Website:** [vashuawasthiofficial.github.io](https://github.io)
+- 👔 **Connect:** [LinkedIn](https://linkedin.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Current Project: **Project-B**
+I am currently architecting the backend for a next-generation platform. Focus: High performance, clean architecture, and scalability.
+
+![Vashu's GitHub Stats](https://vercel.app)
