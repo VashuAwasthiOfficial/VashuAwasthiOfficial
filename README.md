@@ -5,8 +5,8 @@ I'm building scalable digital platforms using a modern tech stack.
 
 - 💻 **Backend:** Java Spring Boot / SQL
 - 📱 **Frontend:** Flutter / Dart
-- 🌐 **Website:** [vashuawasthiofficial.github.io](https://github.io)
-- 👔 **Connect:** [LinkedIn](https://linkedin.com)
+- 🌐 **Website:** [vashuawasthiofficial.github.io](https://vashuawasthiofficial.github.io)
+- 👔 **Connect:** [LinkedIn](https://linkedin.com/in/VashuAwasthi)
 
 ---
 
