@@ -7,7 +7,7 @@ I'm building scalable digital platforms using a modern tech stack.
 - 📱 **Frontend:** Flutter / Dart
 - 🌐 **Website:** [vashuawasthiofficial.github.io](https://vashuawasthiofficial.github.io)
 - 👔 **Connect:** [LinkedIn](https://linkedin.com/in/VashuAwasthi)
-- 𝕏 **Connect:** [X](https://x.com/iAmVashuAwasthi)
+- 𝕏 **Connect:** [X](https://x.com/vashuawasthi_)
 
 ---
 
